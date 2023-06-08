@@ -1,4 +1,4 @@
-# 
+# DirectX-Hook Injection
 Software application that utilizes DirectX hooking and the ImGui library to create an overlay GUI for a game overlay.
 
 The code in the repository is organized into several files:
